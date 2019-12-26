@@ -32,3 +32,8 @@ npm-debug.log
 # we ignore priv/static. You may want to comment
 # this depending on your deployment strategy.
 /priv/static/
+
+# Masses of .beam Files
+.DS_Store
+node_modules/
+.elixir_ls/
